@@ -32,5 +32,12 @@ If required for clarity, a reason for the decision will be added.
 | D17 | 2019-11-07 | Alys Brett     | Full vote (10:1) | We will fund the catering for the November RSE Leaders network as a one-off arrangement, with the stipulation that the most economic available catering option is chosen and the total cost is less than £1000. |
 | D18 | 2019-11-25 | Andy Turner    | Consensus | Use Zoom for online trustees meetings. |
 | D19 | 2019-11-25 | Andy Turner    | Consensus | Continue to use Slack for decisions required quickly between meetings. Process: Any trustee points out that something to be formal decision. Any trustee can create a poll which include approve/reject /defer to meeting/abstain. Poll text must include the statement to be voted upon and contain @channel to notify everyone. Set a deadline for when a decision is needed. Clear majority of all trustees voting in favour leads to decision. Once decision is made, copy it into the Decision Log on Github. |
+| D20 | 2019-11-25 | Andy Turner    | Consensus | Ring fence £30k for conference “float” and basic operating costs. |
+| D21 | 2019-11-25 | Andy Turner    | Consensus | Trustees to travel to Trustee meetings on their own funding unless they have no access to funding, in which case the Society will fund their travel. |
+| D22 | 2019-11-25 | Andy Turner    | Consensus | In principle, we’re against exclusive sponsorship by a single company for any of our initiatives
+. |
+| D23 | 2019-11-25 | Andy Turner    | Consensus | The conference will come under the umbrella of SocRSE. |
+| D23 | 2019-11-25 | Andy Turner    | Consensus | Proposed RSECon20 committee structure, terms of reference and call text approved with minor changes. |
+
 
 
