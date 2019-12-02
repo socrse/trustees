@@ -30,5 +30,7 @@ If required for clarity, a reason for the decision will be added.
 | D15 | 2019-10-24 | Andy Turner | Consensus | Continuing trustees are all on a 1 year term.  |
 | D16 | 2019-10-24 | Andy Turner | Consensus | Face-to-face meetings will rotate among the following venues: Sheffield, Oxford, London (after initial meeting in Southampton) to eliminate the need for air travel. Planned for Oct, early Feb, early May and end August. |
 | D17 | 2019-11-07 | Alys Brett     | Full vote (10:1) | We will fund the catering for the November RSE Leaders network as a one-off arrangement, with the stipulation that the most economic available catering option is chosen and the total cost is less than £1000. |
+| D18 | 2019-11-25 | Andy Turner    | Consensus | Use Zoom for online trustees meetings. |
+| D19 | 2019-11-25 | Andy Turner    | Consensus | Continue to use Slack for decisions required quickly between meetings. Process: Any trustee points out that something to be formal decision. Any trustee can create a poll which include approve/reject /defer to meeting/abstain. Poll text must include the statement to be voted upon and contain @channel to notify everyone. Set a deadline for when a decision is needed. Clear majority of all trustees voting in favour leads to decision. Once decision is made, copy it into the Decision Log on Github. |
 
 
