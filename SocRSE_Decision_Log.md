@@ -38,6 +38,24 @@ If required for clarity, a reason for the decision will be added.
 . |
 | D23 | 2019-11-25 | Andy Turner    | Consensus | The conference will come under the umbrella of SocRSE. |
 | D23 | 2019-11-25 | Andy Turner    | Consensus | Proposed RSECon20 committee structure, terms of reference and call text approved with minor changes. |
+| D24 | 2019-12-16 | Andy Turner    | Consensus | Try to ensure all key trustee roles have at least two people assigned. |
+| D25 | 2019-12-16 | Andy Turner    | Consensus | Split up face-to-face and online meetings into subgroups with appropriate trustee leading each section. |
+| D26 | 2019-12-16 | Andy Turner    | Consensus | Conference: Advertise conference sponsorship packages now. |
+| D27 | 2019-12-16 | Andy Turner    | Consensus | Conference: No conference bags at reception. Sponsor can provide swag at booths. |
+| D28 | 2019-12-16 | Andy Turner    | Consensus | Conference: Allow buying carbon offset as part of sponsorship packages. |
+| D29 | 2019-12-16 | Andy Turner    | Consensus | Conference: Keep sponsorship packages similar to 2019. |
+| D30 | 2019-12-16 | Andy Turner    | Consensus | Conference: Remove 15 minute talk from hosting dinner sponsor item. |
+| D31 | 2020-01-17 | Andy Turner    | Consensus |  Non-trustee note taker volunteer to be offered free conference registration and travel expenses for F2Fs. |
+| D32 | 2020-01-17 | Andy Turner    | Consensus |  Set the deadline for vote on the public version of the minutes to a week from asking for vote. |
+| D33 | 2020-01-17 | Andy Turner    | Consensus | Adopt Xero as the accountancy software for £20/month. |
+| D34 | 2020-01-17 | Andy Turner    | Consensus | Agreed to sponsor the RSELondonSouthEast 2020 workshop. |
+| D35 | 2020-01-17 | Andy Turner    | Consensus | Roles: Ania Brown and James Graham to be the Website Coordinators. |
+| D36 | 2020-01-17 | Andy Turner    | Consensus | Roles: Andy Turner to take up the Secretary role. |
+| D37 | 2020-01-17 | Andy Turner    | Consensus | Roles: Claire Wyatt to take up the Trustee Meeting Logistics role. |
+| D38 | 2020-01-17 | Andy Turner    | Consensus | Roles: Claire Wyatt to take up the 1st Conference Liaison role and Ania Brown to take up the 2nd Conference liaison role. |
+| D39 | 2020-01-17 | Andy Turner    | Consensus | Roles: Claire Wyatt to take up the Communication Coordinator role and Claire to discuss with Tania Allard the proposed publicity/branding/graphics role or other contributions to communications. |
+| D40 | 2020-01-17 | Andy Turner    | Consensus | Roles: Mihaela Duta to take up the Membership Coordinator role and Claire Wyatt to take up the Deputy Membership Coordinator role |
+
 
 
 
