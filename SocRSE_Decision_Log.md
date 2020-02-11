@@ -13,48 +13,66 @@ If required for clarity, a reason for the decision will be added.
 
 | ID  | Date       | Added          | Passed by            | Decision (Reason)    |
 |-----|------------|----------------|----------------------|----------------------|
-| D01 | 2019-05-08 | Andy Turner    | Consensus            | Agreed that rules of quorum for meetings apply to all categories of decisions by the board of trustees. |
-| D02 | 2019-05-08 | Andy Turner    | Consensus            | Decisions are only valid if they are recorded in the Decision Log.  |
-| D03 | 2019-05-08 | Andy Turner    | Consensus            | Will proceed with application to use The Cooperative Bank as the Society banking provider. |
-| D04 | 2019-05-08 | Andy Turner    | Consensus            | Chair, Treasurer and RSE Community Manager will hold Society debit cards.  |
-| D05 | 2019-05-08 | Andy Turner    | Consensus            | Decision to have Treasurer plus one of any other card holders as signatories on account – contingent on advice from Cooperative Bank that this is sensible.  |
-| D06 | 2019-05-08 | Andy Turner    | Consensus            | Agreed on following names/terms: Primary domain: society-rse.org; Full title: The Society of Research Software Engineering; Contractions: SocRSE;E-mail: [*info@society-rse.org*](mailto:info@society-rse.org), [*trustees@society-rse.org*](mailto:trustees@society-rse.org), [*finance@society-rse.org*](mailto:finance@society-rse.org), [*chair@society-rse.org*](mailto:chair@society-rse.org);Twitter: @ResearchSoftEng |
-| D07 | 2019-05-09 | Andy Turner    | Consensus            | Will not record individual voting records |
-| D08 | 2019-05-09 | Simon Hettrick | Consensus            | We will use Google Drive to store documents   |
-| D09 | 2019-05-09 | Simon Hettrick | Consensus            | We will use White Fuse to manage free and paid-for members.  |
-| D10 | 2019-05-22 | Ilian Todorov  | Consensus            | Recognition awards for contribution to the RSE establishment in the UK (at the RSE19 conference) to former Chair, Chris, and Susan Morrell (as the EPSRC contributor and facilitator of the UK’s RSE proliferation). |
-| D11 | 2019-07-08 | Alys Brett     | Consensus            | We agree in principle to support the proposed RSE4HPC workshop co-located with RSE19 as described by Claire/Andy on Fri 28th in this channel. We approve funding of up to £1.5k in return for logo display and acknowledgement + efforts to include RSEs with an interest in HPC and to encourage workshop attendees to get involved in the society. If the funding exceeds £1.5k it should be brought back to us for further approval. |
-| D12 | 2019-07-19 | Alys Brett     | Consensus            | We should aim to launch corporate membership at conference, non-profit, Bronze, Silver & Gold membership tiers.  |
-| D13 | 2019-10-24 | Andy Turner | Consensus | Continue with schedule of monthly online trustees meetings and quarterly face-to-face meetings.  |
-| D14 | 2019-10-24 | Andy Turner | Consensus | Quorum for trustee meetings is 4 people.   |
-| D15 | 2019-10-24 | Andy Turner | Consensus | Continuing trustees are all on a 1 year term.  |
-| D16 | 2019-10-24 | Andy Turner | Consensus | Face-to-face meetings will rotate among the following venues: Sheffield, Oxford, London (after initial meeting in Southampton) to eliminate the need for air travel. Planned for Oct, early Feb, early May and end August. |
-| D17 | 2019-11-07 | Alys Brett     | Full vote (10:1) | We will fund the catering for the November RSE Leaders network as a one-off arrangement, with the stipulation that the most economic available catering option is chosen and the total cost is less than £1000. |
-| D18 | 2019-11-25 | Andy Turner    | Consensus | Use Zoom for online trustees meetings. |
-| D19 | 2019-11-25 | Andy Turner    | Consensus | Continue to use Slack for decisions required quickly between meetings. Process: Any trustee points out that something to be formal decision. Any trustee can create a poll which include approve/reject /defer to meeting/abstain. Poll text must include the statement to be voted upon and contain @channel to notify everyone. Set a deadline for when a decision is needed. Clear majority of all trustees voting in favour leads to decision. Once decision is made, copy it into the Decision Log on Github. |
-| D20 | 2019-11-25 | Andy Turner    | Consensus | Ring fence £30k for conference “float” and basic operating costs. |
-| D21 | 2019-11-25 | Andy Turner    | Consensus | Trustees to travel to Trustee meetings on their own funding unless they have no access to funding, in which case the Society will fund their travel. |
-| D22 | 2019-11-25 | Andy Turner    | Consensus | In principle, we’re against exclusive sponsorship by a single company for any of our initiatives
+| D0001 | 2019-05-08 | Andy Turner    | Consensus            | Agreed that rules of quorum for meetings apply to all categories of decisions by the board of trustees. |
+| D0002 | 2019-05-08 | Andy Turner    | Consensus            | Decisions are only valid if they are recorded in the Decision Log.  |
+| D0003 | 2019-05-08 | Andy Turner    | Consensus            | Will proceed with application to use The Cooperative Bank as the Society banking provider. |
+| D0004 | 2019-05-08 | Andy Turner    | Consensus            | Chair, Treasurer and RSE Community Manager will hold Society debit cards.  |
+| D0005 | 2019-05-08 | Andy Turner    | Consensus            | Decision to have Treasurer plus one of any other card holders as signatories on account – contingent on advice from Cooperative Bank that this is sensible.  |
+| D0006 | 2019-05-08 | Andy Turner    | Consensus            | Agreed on following names/terms: Primary domain: society-rse.org; Full title: The Society of Research Software Engineering; Contractions: SocRSE;E-mail: [*info@society-rse.org*](mailto:info@society-rse.org), [*trustees@society-rse.org*](mailto:trustees@society-rse.org), [*finance@society-rse.org*](mailto:finance@society-rse.org), [*chair@society-rse.org*](mailto:chair@society-rse.org);Twitter: @ResearchSoftEng |
+| D0007 | 2019-05-09 | Andy Turner    | Consensus            | Will not record individual voting records |
+| D0008 | 2019-05-09 | Simon Hettrick | Consensus            | We will use Google Drive to store documents   |
+| D0009 | 2019-05-09 | Simon Hettrick | Consensus            | We will use White Fuse to manage free and paid-for members.  |
+| D0010 | 2019-05-22 | Ilian Todorov  | Consensus            | Recognition awards for contribution to the RSE establishment in the UK (at the RSE19 conference) to former Chair, Chris, and Susan Morrell (as the EPSRC contributor and facilitator of the UK’s RSE proliferation). |
+| D0011 | 2019-07-08 | Alys Brett     | Consensus            | We agree in principle to support the proposed RSE4HPC workshop co-located with RSE19 as described by Claire/Andy on Fri 28th in this channel. We approve funding of up to £1.5k in return for logo display and acknowledgement + efforts to include RSEs with an interest in HPC and to encourage workshop attendees to get involved in the society. If the funding exceeds £1.5k it should be brought back to us for further approval. |
+| D0012 | 2019-07-19 | Alys Brett     | Consensus            | We should aim to launch corporate membership at conference, non-profit, Bronze, Silver & Gold membership tiers.  |
+| D0013 | 2019-10-24 | Andy Turner | Consensus | Continue with schedule of monthly online trustees meetings and quarterly face-to-face meetings.  |
+| D0014 | 2019-10-24 | Andy Turner | Consensus | Quorum for trustee meetings is 4 people.   |
+| D0015 | 2019-10-24 | Andy Turner | Consensus | Continuing trustees are all on a 1 year term.  |
+| D0016 | 2019-10-24 | Andy Turner | Consensus | Face-to-face meetings will rotate among the following venues: Sheffield, Oxford, London (after initial meeting in Southampton) to eliminate the need for air travel. Planned for Oct, early Feb, early May and end August. |
+| D0017 | 2019-11-07 | Alys Brett     | Full vote (10:1) | We will fund the catering for the November RSE Leaders network as a one-off arrangement, with the stipulation that the most economic available catering option is chosen and the total cost is less than £1000. |
+| D0018 | 2019-11-25 | Andy Turner    | Consensus | Use Zoom for online trustees meetings. |
+| D0019 | 2019-11-25 | Andy Turner    | Consensus | Continue to use Slack for decisions required quickly between meetings. Process: Any trustee points out that something to be formal decision. Any trustee can create a poll which include approve/reject /defer to meeting/abstain. Poll text must include the statement to be voted upon and contain @channel to notify everyone. Set a deadline for when a decision is needed. Clear majority of all trustees voting in favour leads to decision. Once decision is made, copy it into the Decision Log on Github. |
+| D0020 | 2019-11-25 | Andy Turner    | Consensus | Ring fence £30k for conference “float” and basic operating costs. |
+| D0021 | 2019-11-25 | Andy Turner    | Consensus | Trustees to travel to Trustee meetings on their own funding unless they have no access to funding, in which case the Society will fund their travel. |
+| D0022 | 2019-11-25 | Andy Turner    | Consensus | In principle, we’re against exclusive sponsorship by a single company for any of our initiatives
 . |
-| D23 | 2019-11-25 | Andy Turner    | Consensus | The conference will come under the umbrella of SocRSE. |
-| D23 | 2019-11-25 | Andy Turner    | Consensus | Proposed RSECon20 committee structure, terms of reference and call text approved with minor changes. |
-| D24 | 2019-12-16 | Andy Turner    | Consensus | Try to ensure all key trustee roles have at least two people assigned. |
-| D25 | 2019-12-16 | Andy Turner    | Consensus | Split up face-to-face and online meetings into subgroups with appropriate trustee leading each section. |
-| D26 | 2019-12-16 | Andy Turner    | Consensus | Conference: Advertise conference sponsorship packages now. |
-| D27 | 2019-12-16 | Andy Turner    | Consensus | Conference: No conference bags at reception. Sponsor can provide swag at booths. |
-| D28 | 2019-12-16 | Andy Turner    | Consensus | Conference: Allow buying carbon offset as part of sponsorship packages. |
-| D29 | 2019-12-16 | Andy Turner    | Consensus | Conference: Keep sponsorship packages similar to 2019. |
-| D30 | 2019-12-16 | Andy Turner    | Consensus | Conference: Remove 15 minute talk from hosting dinner sponsor item. |
-| D31 | 2020-01-17 | Andy Turner    | Consensus |  Non-trustee note taker volunteer to be offered free conference registration and travel expenses for F2Fs. |
-| D32 | 2020-01-17 | Andy Turner    | Consensus |  Set the deadline for vote on the public version of the minutes to a week from asking for vote. |
-| D33 | 2020-01-17 | Andy Turner    | Consensus | Adopt Xero as the accountancy software for £20/month. |
-| D34 | 2020-01-17 | Andy Turner    | Consensus | Agreed to sponsor the RSELondonSouthEast 2020 workshop. |
-| D35 | 2020-01-17 | Andy Turner    | Consensus | Roles: Ania Brown and James Graham to be the Website Coordinators. |
-| D36 | 2020-01-17 | Andy Turner    | Consensus | Roles: Andy Turner to take up the Secretary role. |
-| D37 | 2020-01-17 | Andy Turner    | Consensus | Roles: Claire Wyatt to take up the Trustee Meeting Logistics role. |
-| D38 | 2020-01-17 | Andy Turner    | Consensus | Roles: Claire Wyatt to take up the 1st Conference Liaison role and Ania Brown to take up the 2nd Conference liaison role. |
-| D39 | 2020-01-17 | Andy Turner    | Consensus | Roles: Claire Wyatt to take up the Communication Coordinator role and Claire to discuss with Tania Allard the proposed publicity/branding/graphics role or other contributions to communications. |
-| D40 | 2020-01-17 | Andy Turner    | Consensus | Roles: Mihaela Duta to take up the Membership Coordinator role and Claire Wyatt to take up the Deputy Membership Coordinator role |
+| D0023 | 2019-11-25 | Andy Turner    | Consensus | The conference will come under the umbrella of SocRSE. |
+| D0023 | 2019-11-25 | Andy Turner    | Consensus | Proposed RSECon20 committee structure, terms of reference and call text approved with minor changes. |
+| D0024 | 2019-12-16 | Andy Turner    | Consensus | Try to ensure all key trustee roles have at least two people assigned. |
+| D0025 | 2019-12-16 | Andy Turner    | Consensus | Split up face-to-face and online meetings into subgroups with appropriate trustee leading each section. |
+| D0026 | 2019-12-16 | Andy Turner    | Consensus | Conference: Advertise conference sponsorship packages now. |
+| D0027 | 2019-12-16 | Andy Turner    | Consensus | Conference: No conference bags at reception. Sponsor can provide swag at booths. |
+| D0028 | 2019-12-16 | Andy Turner    | Consensus | Conference: Allow buying carbon offset as part of sponsorship packages. |
+| D0029 | 2019-12-16 | Andy Turner    | Consensus | Conference: Keep sponsorship packages similar to 2019. |
+| D0030 | 2019-12-16 | Andy Turner    | Consensus | Conference: Remove 15 minute talk from hosting dinner sponsor item. |
+| D0031 | 2020-01-17 | Andy Turner    | Consensus |  Non-trustee note taker volunteer to be offered free conference registration and travel expenses for F2Fs. |
+| D0032 | 2020-01-17 | Andy Turner    | Consensus |  Set the deadline for vote on the public version of the minutes to a week from asking for vote. |
+| D0033 | 2020-01-17 | Andy Turner    | Consensus | Adopt Xero as the accountancy software for £20/month. |
+| D0034 | 2020-01-17 | Andy Turner    | Consensus | Agreed to sponsor the RSELondonSouthEast 2020 workshop. |
+| D0035 | 2020-01-17 | Andy Turner    | Consensus | Roles: Ania Brown and James Graham to be the Website Coordinators. |
+| D0036 | 2020-01-17 | Andy Turner    | Consensus | Roles: Andy Turner to take up the Secretary role. |
+| D0037 | 2020-01-17 | Andy Turner    | Consensus | Roles: Claire Wyatt to take up the Trustee Meeting Logistics role. |
+| D0038 | 2020-01-17 | Andy Turner    | Consensus | Roles: Claire Wyatt to take up the 1st Conference Liaison role and Ania Brown to take up the 2nd Conference liaison role. |
+| D0039 | 2020-01-17 | Andy Turner    | Consensus | Roles: Claire Wyatt to take up the Communication Coordinator role and Claire to discuss with Tania Allard the proposed publicity/branding/graphics role or other contributions to communications. |
+| D0040 | 2020-01-17 | Andy Turner    | Consensus | Roles: Mihaela Duta to take up the Membership Coordinator role and Claire Wyatt to take up the Deputy Membership Coordinator role |
+| D0041 | 2020-02-07 | Andy Turner    | Consensus | We agree to keep £20K as a contingency for  this financial period and 10% of turnover from next year. |
+| D0042 | 2020-02-07 | Andy Turner    | Consensus | ~56k remains available for spending this financial period. |
+| D0043 | 2020-02-07 | Andy Turner    | Consensus | We authorise the treasurer to engage the chosen accountant. |
+| D0044 | 2020-02-07 | Andy Turner    | Consensus | Membership: We are not going to reduce the membership fee for students etc. at the moment but we will keep that into our list for future consideration. |
+| D0045 | 2020-02-07 | Andy Turner    | Consensus | Membership: We will open membership to non UK. |
+| D0046 | 2020-02-07 | Andy Turner    | Consensus | Membership: We do not intend to support the  group membership at this moment. |
+| D0047 | 2020-02-07 | Andy Turner    | Consensus | Membership: We do not intend to support the  group membership at this moment. |
+| D0048 | 2020-02-07 | Andy Turner    | Consensus | Membership: Individual members benefit: point 6 - must be member to apply for funding. |
+| D0049 | 2020-02-07 | Andy Turner    | Consensus | Membership: Individual members benefits 8/9 - Claire’s proposed newsletter to members should be termed “Member’s Newsletter” - public mailing list is “Community Announcements”. |
+| D0050 | 2020-02-07 | Andy Turner    | Consensus | Membership: Individual members benefits 8 - will not offer opt-out - they agreed when joining. |
+| D0051 | 2020-02-07 | Andy Turner    | Consensus | Membership: Individual members benefits 7 - OK to provide early access if easy in Whitefuse - do not offer a discount. |
+| D0052 | 2020-02-07 | Andy Turner    | Consensus | Membership: Individual members benefits 5 - Job adverts free for members employed by HE or research facility and the job is for the member’s institution. |
+| D0053 | 2020-02-07 | Andy Turner    | Consensus | Membership:  Individual benefits 4 - we do not want to require speakers to be member - we are in support of having a members-only event / reception. |
+| D0054 | 2020-02-07 | Andy Turner    | Consensus | Web: Charge £100 pm per job for adverts. |
+| D0055 | 2020-02-07 | Andy Turner    | Consensus | Web: This newsletter should be public on WordPress - we are happy with the format Claire has prepared. |
+| D0056 | 2020-02-07 | Andy Turner    | Consensus | Web: Members-only comms will be done as necessary - not on a regular schedule. |
+| D0057 | 2020-02-07 | Andy Turner    | Consensus | Web: Go ahead with unregistered trademark option. |
+| D0058 | 2020-02-07 | Andy Turner    | Unanimous | Conference: Plan for venue agreed. |
 
 
 
