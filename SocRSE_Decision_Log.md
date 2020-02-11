@@ -60,20 +60,15 @@ If required for clarity, a reason for the decision will be added.
 | D0043 | 2020-02-07 | Andy Turner    | Consensus | We authorise the treasurer to engage the chosen accountant. |
 | D0044 | 2020-02-07 | Andy Turner    | Consensus | Membership: We are not going to reduce the membership fee for students etc. at the moment but we will keep that into our list for future consideration. |
 | D0045 | 2020-02-07 | Andy Turner    | Consensus | Membership: We will open membership to non UK. |
-| D0046 | 2020-02-07 | Andy Turner    | Consensus | Membership: We do not intend to support the  group membership at this moment. |
-| D0047 | 2020-02-07 | Andy Turner    | Consensus | Membership: We do not intend to support the  group membership at this moment. |
-| D0048 | 2020-02-07 | Andy Turner    | Consensus | Membership: Individual members benefit: point 6 - must be member to apply for funding. |
-| D0049 | 2020-02-07 | Andy Turner    | Consensus | Membership: Individual members benefits 8/9 - Claire’s proposed newsletter to members should be termed “Member’s Newsletter” - public mailing list is “Community Announcements”. |
-| D0050 | 2020-02-07 | Andy Turner    | Consensus | Membership: Individual members benefits 8 - will not offer opt-out - they agreed when joining. |
-| D0051 | 2020-02-07 | Andy Turner    | Consensus | Membership: Individual members benefits 7 - OK to provide early access if easy in Whitefuse - do not offer a discount. |
-| D0052 | 2020-02-07 | Andy Turner    | Consensus | Membership: Individual members benefits 5 - Job adverts free for members employed by HE or research facility and the job is for the member’s institution. |
-| D0053 | 2020-02-07 | Andy Turner    | Consensus | Membership:  Individual benefits 4 - we do not want to require speakers to be member - we are in support of having a members-only event / reception. |
-| D0054 | 2020-02-07 | Andy Turner    | Consensus | Web: Charge £100 pm per job for adverts. |
-| D0055 | 2020-02-07 | Andy Turner    | Consensus | Web: This newsletter should be public on WordPress - we are happy with the format Claire has prepared. |
-| D0056 | 2020-02-07 | Andy Turner    | Consensus | Web: Members-only comms will be done as necessary - not on a regular schedule. |
-| D0057 | 2020-02-07 | Andy Turner    | Consensus | Web: Go ahead with unregistered trademark option. |
-| D0058 | 2020-02-07 | Andy Turner    | Unanimous | Conference: Plan for venue agreed. |
-
-
-
-
+| D0046 | 2020-02-07 | Andy Turner    | Consensus | Membership: We do not intend to support the  group payment at this moment. |
+| D0047 | 2020-02-07 | Andy Turner    | Consensus | Membership: Individual members benefit: point 6 - must be member to apply for funding. |
+| D0048 | 2020-02-07 | Andy Turner    | Consensus | Membership: Individual members benefits 8/9 - Claire’s proposed newsletter to members should be termed “Member’s Newsletter” - public mailing list is “Community Announcements”. |
+| D0049 | 2020-02-07 | Andy Turner    | Consensus | Membership: Individual members benefits 8 - will not offer opt-out - they agreed when joining. |
+| D0050 | 2020-02-07 | Andy Turner    | Consensus | Membership: Individual members benefits 7 - OK to provide early access if easy in Whitefuse - do not offer a discount. |
+| D0051 | 2020-02-07 | Andy Turner    | Consensus | Membership: Individual members benefits 5 - Job adverts free for members employed by HE or research facility and the job is for the member’s institution. |
+| D0052 | 2020-02-07 | Andy Turner    | Consensus | Membership:  Individual benefits 4 - we do not want to require speakers to be member - we are in support of having a members-only event / reception. |
+| D0053 | 2020-02-07 | Andy Turner    | Consensus | Web: Charge £100 pm per job for adverts. |
+| D0054 | 2020-02-07 | Andy Turner    | Consensus | Web: This newsletter should be public on WordPress - we are happy with the format Claire has prepared. |
+| D0055 | 2020-02-07 | Andy Turner    | Consensus | Web: Members-only comms will be done as necessary - not on a regular schedule. |
+| D0056 | 2020-02-07 | Andy Turner    | Consensus | Web: Go ahead with unregistered trademark option. |
+| D0057 | 2020-02-07 | Andy Turner    | Unanimous | Conference: Plan for venue agreed. |
