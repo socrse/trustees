@@ -72,3 +72,4 @@ If required for clarity, a reason for the decision will be added.
 | D0055 | 2020-02-07 | Andy Turner    | Consensus | Web: Members-only comms will be done as necessary - not on a regular schedule. |
 | D0056 | 2020-02-07 | Andy Turner    | Consensus | Web: Go ahead with unregistered trademark option. |
 | D0057 | 2020-02-07 | Andy Turner    | Unanimous | Conference: Plan for venue agreed. |
+| D0058 | 2020-03-19 | Andy Turner    | Unanimous | Conference: Agreed to cancel 2020 conference and notify community via mailing ASAP. |
