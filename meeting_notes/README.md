@@ -4,6 +4,11 @@ Public notes from SocRSE Board of Trustees meetings.
 
 ## 2020
 
+   - [2020-08-27, Online](2020-08-27_Online.md)
+   - [2020-07-14, Online](2020-07-14_Online.md)
+   - [2020-06-15, Online](2020-06-15_Online.md)
+   - [2020-05-18, Online](2020-04-03_Online.md)
+   - [2020-04-03, Online](2020-04-03_Online.md)
    - [2020-03-19, Online (Emergency Meeting)](2020-03-19_EmergencyOnline.md)
    - [2020-02-07, Face-to-face, University of Sheffield](2020-02-07_FaceToFace.md)
    - [2020-01-17, Online](2020-01-17_Online.md)
