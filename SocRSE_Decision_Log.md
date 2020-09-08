@@ -73,3 +73,6 @@ If required for clarity, a reason for the decision will be added.
 | D0056 | 2020-02-07 | Andy Turner    | Consensus | Web: Go ahead with unregistered trademark option. |
 | D0057 | 2020-02-07 | Andy Turner    | Unanimous | Conference: Plan for venue agreed. |
 | D0058 | 2020-03-19 | Andy Turner    | Unanimous | Conference: Agreed to cancel 2020 conference and notify community via mailing ASAP. |
+| D0059 | 2020-04-04 | Paul Richmond   | Consensus | AGM will be online |
+| D0060 | 2020-06-15 | Paul Richmond   | Consensus | Pay for Zoom subscription to run online events |
+| D0061 | 2020-08-27 | Andy Turner | Consensus | We will record the AGM presentation from Trustees and make it available publicly afterwards |
