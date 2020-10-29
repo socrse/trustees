@@ -76,3 +76,11 @@ If required for clarity, a reason for the decision will be added.
 | D0059 | 2020-04-04 | Paul Richmond   | Consensus | AGM will be online |
 | D0060 | 2020-06-15 | Paul Richmond   | Consensus | Pay for Zoom subscription to run online events |
 | D0061 | 2020-08-27 | Andy Turner | Consensus | We will record the AGM presentation from Trustees and make it available publicly afterwards |
+| D0062 | 2020-10-23 | Teri Forey | Consensus | Roles: Paul Richmond elected President |
+| D0063 | 2020-10-23 | Teri Forey | Consensus | Roles: Matt Williams elected Treasurer |
+| D0064 | 2020-10-23 | Teri Forey | Consensus | Agreed that president and treasurer will stand down after one year in position, even if they continue as a trustee |
+| D0065 | 2020-10-23 | Teri Forey | Consensus | Roles: Claire Wyatt elected Vice-President |
+| D0066 | 2020-10-23 | Teri Forey | Consensus | Roles: Kirsty Pringle elected Vice-Treasurer |
+| D0067 | 2020-10-23 | Teri Forey | Consensus | Voted in support of the International Community of RSE |
+| D0068 | 2020-10-23 | Teri Forey | Consensus | Voted to support, with stipulations specified, the RSE Podcast Series |
+| D0069 | 2020-10-23 | Teri Forey | Vote (4 abstained) | Voted to support in principle, with certain stipulations, the Rosalind Franklin Institute's RSE Advisor programme |
