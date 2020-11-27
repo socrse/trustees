@@ -84,3 +84,7 @@ If required for clarity, a reason for the decision will be added.
 | D0067 | 2020-10-23 | Teri Forey | Consensus | Voted in support of the International Community of RSE |
 | D0068 | 2020-10-23 | Teri Forey | Consensus | Voted to support, with stipulations specified, the RSE Podcast Series |
 | D0069 | 2020-10-23 | Teri Forey | Vote (4 abstained) | Voted to support in principle, with certain stipulations, the Rosalind Franklin Institute's RSE Advisor programme |
+| D0070 | 2020-11-27 | Teri Forey | Consensus | Voted to close old UKRSE mailing list by 17th Dec |
+| D0071 | 2020-11-27 | Teri Forey | Consensus | Agreed that full redirecting from old website will occur on 17th |
+| D0072 | 2020-11-27 | Teri Forey | Vote (5 abstained) | Agreed to fund Matt Parker for SORSE event under events policy |
+| D0073 | 2020-11-27 | Teri Forey | Consensus | Agreed to set up accounting with Xero |
