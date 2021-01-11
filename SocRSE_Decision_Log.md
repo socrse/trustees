@@ -88,3 +88,8 @@ If required for clarity, a reason for the decision will be added.
 | D0071 | 2020-11-27 | Teri Forey | Consensus | Agreed that full redirecting from old website will occur on 17th |
 | D0072 | 2020-11-27 | Teri Forey | Vote (5 abstained) | Agreed to fund Matt Parker for SORSE event under events policy |
 | D0073 | 2020-11-27 | Teri Forey | Consensus | Agreed to set up accounting with Xero |
+| D0074 | 2021-01-08 | Teri Forey | Vote (11 yes, 1 abstain) | Voted to approve the grievance policy document | 
+| D0075 | 2021-01-08 | Teri Forey | Vote (9 yes, 3 abstain) | Vote to adopt the Charity Governance Code and undertake recommendations from CGC review |
+| D0076 | 2021-01-08 | Teri Forey | Vote (1 yes, 3 abstain, 8 no) | Voted not to trigger immediate external review of governance, will review in 3 months |
+| D0077 | 2021-01-08 | Teri Forey | Consensus | Agreed to consider state of governance before voting on any new activity | 
+| D0078 | 2021-01-08 | Teri Forey | Vote (1 yes, 4 abstain, 6 no) | Voted not to trigger immediate external health check on diversity of trustees and relationships with external organisations, will review in 3 months |
