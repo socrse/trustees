@@ -93,3 +93,12 @@ If required for clarity, a reason for the decision will be added.
 | D0076 | 2021-01-08 | Teri Forey | Vote (1 yes, 3 abstain, 8 no) | Voted not to trigger immediate external review of governance, will review in 3 months |
 | D0077 | 2021-01-08 | Teri Forey | Consensus | Agreed to consider state of governance before voting on any new activity | 
 | D0078 | 2021-01-08 | Teri Forey | Vote (1 yes, 4 abstain, 6 no) | Voted not to trigger immediate external health check on diversity of trustees and relationships with external organisations, will review in 3 months |
+| D0079 | 2021-02-02 | Teri Forey | Consensus | Approved Society Strategy Document |
+| D0080 | 2021-02-02 | Teri Forey | Consensus | Approved Peer Review College Blog |
+| D0081 | 2021-02-02 | Teri Forey | Consensus | Approved to adopt 7 principles of public life |
+| D0082 | 2021-02-02 | Teri Forey | Vote (7 yes, 2 abstain) | Approved purchase of Mentimeter at higher package |
+| D0083 | 2021-02-02 | Teri Forey | Consensus | Voted to delay careers event until schools reopened |
+| D0084 | 2021-02-02 | Teri Forey | Consensus | Approved added rules and etiquette for responsible corporate engagement to CoC |
+| D0085 | 2021-02-02 | Teri Forey | Consensus | Approved Community Survey |
+| D0086 | 2021-02-02 | Teri Forey | Consensus | Approved events funding policy |
+| D0087 | 2021-02-02 | Teri Forey | Consensus | Approved delegation of Charity Indemnity Insurance to finance group | 
