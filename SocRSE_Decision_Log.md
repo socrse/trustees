@@ -102,3 +102,4 @@ If required for clarity, a reason for the decision will be added.
 | D0085 | 2021-02-02 | Teri Forey | Consensus | Approved Community Survey |
 | D0086 | 2021-02-02 | Teri Forey | Consensus | Approved events funding policy |
 | D0087 | 2021-02-02 | Teri Forey | Consensus | Approved delegation of Charity Indemnity Insurance to finance group | 
+| D0088 | 2021-03-04 | Teri Forey | Consensus | Approved Trademark Policy |
