@@ -2,8 +2,13 @@
 
 Public notes from SocRSE Board of Trustees meetings.
 
-## 2020
+## 2021
+ - [2021-03-04, Online](2021-03-04_Online.md)
+ - [2021-02-02, Online](2021-02-02_Online.md)
+ - [2021-01-08, Online](2021-01-08_Online.md)
 
+## 2020
+   - [2020-11-27, Online](2020-11-27_Online.md)
    - [2020-10-23, Online](2020-10-23_Online.md)
    - [2020-08-27, Online](2020-08-27_Online.md)
    - [2020-07-14, Online](2020-07-14_Online.md)
