@@ -103,3 +103,12 @@ If required for clarity, a reason for the decision will be added.
 | D0086 | 2021-02-02 | Teri Forey | Consensus | Approved events funding policy |
 | D0087 | 2021-02-02 | Teri Forey | Consensus | Approved delegation of Charity Indemnity Insurance to finance group | 
 | D0088 | 2021-03-04 | Teri Forey | Consensus | Approved Trademark Policy |
+| D0089 | 2021-04-16 | Teri Forey | Consensus | Approve proposal for the Conference 2021 |
+| D0090 | 2021-04-16 | Teri Forey | Consensus | Approve conditions for international endorsement |
+| D0091 | 2021-04-16 | Teri Forey | Vote (8 yes, 1 no) | Approve international RSE day |
+| D0092 | 2021-04-16 | Teri Forey | Consensus | Approved Conflicts of Interest policy |
+| D0093 | 2021-04-16 | Teri Forey | Consensus | Approve working Table of Delegation |
+| D0094 | 2021-04-16 | Teri Forey | Vote (8 yes, 1 abstain) | Approve EDI policy |
+| D0095 | 2021-04-16 | Teri Forey | Consensus | Approved mandatory EDI training for trustees |
+| D0096 | 2021-04-16 | Teri Forey | Vote (5 yes, 4 no, 1 abstain) | Approve external review of governance |
+| D0097 | 2021-04-16 | Teri Forey | Vote (8 yes, 2 abstain) | Approve Dell discount for members |
