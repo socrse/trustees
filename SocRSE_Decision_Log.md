@@ -112,3 +112,7 @@ If required for clarity, a reason for the decision will be added.
 | D0095 | 2021-04-16 | Teri Forey | Consensus | Approved mandatory EDI training for trustees |
 | D0096 | 2021-04-16 | Teri Forey | Vote (5 yes, 4 no, 1 abstain) | Approve external review of governance |
 | D0097 | 2021-04-16 | Teri Forey | Vote (8 yes, 2 abstain) | Approve Dell discount for members |
+| D0098 | 2021-05-11 | Teri Forey | Vote (6 yes, 4 conflicts of interest) | Approve request for SORSE event funding |
+| D0099 | 2021-05-11 | Teri Forey | Vote (7 yes, 2 no, 1 abstain) | Approved signing up to Amazon Smile |
+| D0100 | 2021-05-11 | Teri Forey | Consensus | Approved trustee Code of Conduct |
+| D0101 | 2021-05-11 | Teri Forey | Consensus | Approved conference Terms of Reference document in principle |
