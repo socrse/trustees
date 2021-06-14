@@ -116,3 +116,7 @@ If required for clarity, a reason for the decision will be added.
 | D0099 | 2021-05-11 | Teri Forey | Vote (7 yes, 2 no, 1 abstain) | Approved signing up to Amazon Smile |
 | D0100 | 2021-05-11 | Teri Forey | Consensus | Approved trustee Code of Conduct |
 | D0101 | 2021-05-11 | Teri Forey | Consensus | Approved conference Terms of Reference document in principle |
+| D0102 | 2021-06-10 | Teri Forey | Consensus | Approved setting up Regional RSE Groups SIG |
+| D0103 | 2021-06-10 | Teri Forey | Consensus | Approved amendments to events CoC and Complaints and Grievance Policy |
+| D0104 | 2021-06-10 | Teri Forey | Vote (1 yes, 6 no, 3 abstain) | Voted not to support funding request in current state |
+| D0105 | 2021-06-10 | Teri Forey | Vote (6 yes, 4 no) | Voted to publish Jo's letter to members |
