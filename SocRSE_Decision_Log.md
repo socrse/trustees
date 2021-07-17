@@ -120,3 +120,11 @@ If required for clarity, a reason for the decision will be added.
 | D0103 | 2021-06-10 | Teri Forey | Consensus | Approved amendments to events CoC and Complaints and Grievance Policy |
 | D0104 | 2021-06-10 | Teri Forey | Vote (1 yes, 6 no, 3 abstain) | Voted not to support funding request in current state |
 | D0105 | 2021-06-10 | Teri Forey | Vote (6 yes, 4 no) | Voted to publish Jo's letter to members |
+| D0106 | 2021-07-16 | Teri Forey | Consensus | Approved financial reserves policy |
+| D0107 | 2021-07-16 | Teri Forey | Vote (6 yes, 1 no, 3 abstain) | Approved R training course in Nigeria funding submission |
+| D0108 | 2021-07-16 | Teri Forey | Vote (9 yes, 1 abstain) | Approved moving ahead with CoachMentoring for mentoring program|
+| D0109 | 2021-07-16 | Teri Forey | Consensus | Approved elections timeline and process |
+| D0110 | 2021-07-16 | Teri Forey | Consensus | Approved changes and updates to delegation table |
+| D0111 | 2021-07-16 | Teri Forey | Vote (5 yes, 4 excluded due to conflicts of interest) | Approve purchase request for HiddenREF trophy |
+| D0112 | 2021-07-16 | Teri Forey | Consensus | Approved purchase of Otter.ai |
+| D0113 | 2021-07-16 | Teri Forey | Consensus | Approved in principle setting up 10 years of RSE group |
