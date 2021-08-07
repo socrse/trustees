@@ -128,3 +128,9 @@ If required for clarity, a reason for the decision will be added.
 | D0111 | 2021-07-16 | Teri Forey | Vote (5 yes, 4 excluded due to conflicts of interest) | Approve purchase request for HiddenREF trophy |
 | D0112 | 2021-07-16 | Teri Forey | Consensus | Approved purchase of Otter.ai |
 | D0113 | 2021-07-16 | Teri Forey | Consensus | Approved in principle setting up 10 years of RSE group |
+| D0114 | 2021-08-06 | Teri Forey | Consensus | Approved endorsement of international RSE survey |
+| D0115 | 2021-08-06 | Teri Forey | Consensus | Approved proposed constitutional changes |
+| D0116 | 2021-08-06 | Teri Forey | Consensus | Approved updates to Table of Delegation |
+| D0117 | 2021-08-06 | Teri Forey | Vote (9 yes, 1 abstain) | Approved WG and SIG documents |
+| D0118 | 2021-08-06 | Teri Forey | Vote (8 yes, 2 abstain) | Approved t-shirt merchandise sale for conference |
+| D0119 | 2021-08-06 | Teri Forey | Vote (9 yes, 1 abstain) | Approved careers event summary |
