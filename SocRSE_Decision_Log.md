@@ -134,3 +134,8 @@ If required for clarity, a reason for the decision will be added.
 | D0117 | 2021-08-06 | Teri Forey | Vote (9 yes, 1 abstain) | Approved WG and SIG documents |
 | D0118 | 2021-08-06 | Teri Forey | Vote (8 yes, 2 abstain) | Approved t-shirt merchandise sale for conference |
 | D0119 | 2021-08-06 | Teri Forey | Vote (9 yes, 1 abstain) | Approved careers event summary |
+| D0120 | 2021-09-03 | Teri Forey | Vote (7 yes, 2 abstain) | Approved trustee annual report |
+| D0121 | 2021-09-03 | Teri Forey | Vote (7 yes, 2 abstain) | Approved candidates for election |
+| D0122 | 2021-09-03 | Teri Forey | Vote (7 yes, 2 abstain) | Approved procurement policy with amendment |
+| D0123 | 2021-09-03 | Teri Forey | Vote (8 no, 1 abstain) | Decided not to support funding request for 3 day python course | 
+| D0124 | 2021-09-03 | Teri Forey | Vote (7 yes, 1 abstain, 1 no) | Decided to approve funding request for panel session |
