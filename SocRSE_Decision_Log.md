@@ -139,3 +139,6 @@ If required for clarity, a reason for the decision will be added.
 | D0122 | 2021-09-03 | Teri Forey | Vote (7 yes, 2 abstain) | Approved procurement policy with amendment |
 | D0123 | 2021-09-03 | Teri Forey | Vote (8 no, 1 abstain) | Decided not to support funding request for 3 day python course | 
 | D0124 | 2021-09-03 | Teri Forey | Vote (7 yes, 1 abstain, 1 no) | Decided to approve funding request for panel session |
+| D0125 | 2021-10-15 | Teri Forey | Vote (10 yes, 1 abstain) | Matt Williams elected as President |
+| D0126 | 2021-10-15 | Teri Forey | Vote (10 yes, 1 abstain) | Kirsty Pringle elected as Treasurer |
+| D0127 | 2021-10-15 | Teri Forey | Vote by email (9 yes) | Approved Mentoring WG Terms of Reference |
