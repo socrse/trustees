@@ -144,3 +144,4 @@ If required for clarity, a reason for the decision will be added.
 | D0127 | 2021-10-15 | Teri Forey | Vote by email (9 yes) | Approved Mentoring WG Terms of Reference |
 | D0128 | 2021-11-15 | Mark Turner | Vote (6 yes, 3 abstain) | Voted to endorse and promote ‘FAIR4RS principles’ from Research Data Alliance |
 | D0129 | 2021-11-15 | Mark Turner | Vote (7 yes, 3 abstain) | Approved funding for 'RSE Midlands' regional group launch |
+| D0130 | 2021-12-16 | Mark Turner | consensus, 1 abstain | Joined UKRN as an affiliate external  stakeholder |
