@@ -148,3 +148,4 @@ If required for clarity, a reason for the decision will be added.
 | D0130 | 2021-12-16 | Mark Turner | Vote (10 yes, 1 abstain) | Joined UKRN as an affiliate external  stakeholder |
 | D0131 | 2022-01-20 | Mark Turner | Unanimous | Policy on logo reuse |
 | D0132 | 2022-01-20 | Mark Turner | Unanimous | Form a consitution working group |
+| D0133 | 2022-02-14 | Mark Turner | Vote (5 yes, 1 no) | Make conference a 3 day as opposed to 2 day event |
