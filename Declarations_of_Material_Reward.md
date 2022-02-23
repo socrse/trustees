@@ -9,4 +9,4 @@ conference venue while travelling with the aim of organising a society event.
 
 | Date | Trustee name | Reward | Context |
 |-----|------------|----------------|----------------------|
-
+| 21/02/2022 | Claire Wyatt | Received lunch when in Newcastle on the 11/02/2022 paid for my Mark Turner, Head of RSE group at Newcastle. | Visiting the city for the conference. |
