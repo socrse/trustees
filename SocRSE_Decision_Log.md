@@ -149,3 +149,6 @@ If required for clarity, a reason for the decision will be added.
 | D0131 | 2022-01-20 | Mark Turner | Unanimous | Policy on logo reuse |
 | D0132 | 2022-01-20 | Mark Turner | Unanimous | Form a consitution working group |
 | D0133 | 2022-02-14 | Mark Turner | Vote (5 yes, 1 no) | Make conference a 3 day as opposed to 2 day event |
+| D0134 | 2022-02-21 | Mark Turner | Consent agenda | Approve Environmental Policy |
+| D0135 | 2022-02-21 | Mark Turner | Unanimous | Ian elected Vice President following Teri stepping down |
+| D0136 | 2022-02-21 | Mark Turner | Unanimous | Approved spending on advice from accountaint about VAT |
