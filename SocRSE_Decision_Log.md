@@ -152,3 +152,4 @@ If required for clarity, a reason for the decision will be added.
 | D0134 | 2022-02-21 | Mark Turner | Consent agenda | Approve Environmental Policy |
 | D0135 | 2022-02-21 | Mark Turner | Unanimous | Ian elected Vice President following Teri stepping down |
 | D0136 | 2022-02-21 | Mark Turner | Unanimous | Approved spending on advice from accountaint about VAT |
+| D0137 | 2022-03-03 | Mark Turner | Unanimous | Approved the terms of reference for the Society Advisory Board |
