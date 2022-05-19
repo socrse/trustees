@@ -155,4 +155,6 @@ If required for clarity, a reason for the decision will be added.
 | D0137 | 2022-03-03 | Mark Turner | Unanimous | Approved the terms of reference for the Society Advisory Board |
 | D0138 | 2022-03-14 | Mark Turner | Unanimous | Approved the election of Malvika Sharan to position of trustee |
 | D0139 | 2022-03-14 | Mark Turner | Email vote (10 yes, 1 didn't vote) | Approval for payment of conference costs and deposits |
-| D0140 | 2022-03-14 | Mark Turner | Email vote (6 yes, 5 didn't vote) | Approval for payment of conference platform |
+| D0140 | 2022-03-14 | Mark Turner | Email vote (11 yes) | Approval for payment of conference platform |
+| D0141 | 2022-03-21 | Mark Turner | Vote (6 yes, 1 no, 3 abstain) | We will go to the members with the proposal to change the trustee term from 2 to 3 years |
+| D0142 | 2022-03-21 | Mark Turner | Unanimous | Approved the EDIA working group terms of reference |
