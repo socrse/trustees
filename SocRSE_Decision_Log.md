@@ -162,3 +162,6 @@ If required for clarity, a reason for the decision will be added.
 | D0144 | 2022-04-13 | Mark Turner | Consent agenda | Minor updates to the Society Advisory Group Terms of Reference |
 | D0145 | 2022-04-13 | Mark Turner | Vote (8 yes, 2 abstain) | Approved conference spending on RSE Leaders' Dinner |
 | D0146 | 2022-04-13 | Mark Turner | Vote (9 yes, 1 abstain) | Approved conference spending on informal welcome event |
+| D0147 | 2022-05-13 | Mark Turner | Unanimous | Approved RSE Landscape Review |
+| D0148 | 2022-05-13 | Mark Turner | Unanimous | Approved budget for RSE awards to be presented at conference |
+| D0149 | 2022-05-13 | Mark Turner | Unanimous | Approved opening up the Society's process documents to community |
