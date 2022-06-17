@@ -158,3 +158,10 @@ If required for clarity, a reason for the decision will be added.
 | D0140 | 2022-03-14 | Mark Turner | Email vote (11 yes) | Approval for payment of conference platform |
 | D0141 | 2022-03-21 | Mark Turner | Vote (6 yes, 1 no, 3 abstain) | We will go to the members with the proposal to change the trustee term from 2 to 3 years |
 | D0142 | 2022-03-21 | Mark Turner | Unanimous | Approved the EDIA working group terms of reference |
+| D0143 | 2022-04-13 | Mark Turner | Consent agenda | Approved the safeguarding policy |
+| D0144 | 2022-04-13 | Mark Turner | Consent agenda | Minor updates to the Society Advisory Group Terms of Reference |
+| D0145 | 2022-04-13 | Mark Turner | Vote (8 yes, 2 abstain) | Approved conference spending on RSE Leaders' Dinner |
+| D0146 | 2022-04-13 | Mark Turner | Vote (9 yes, 1 abstain) | Approved conference spending on informal welcome event |
+| D0147 | 2022-05-13 | Mark Turner | Unanimous | Approved RSE Landscape Review |
+| D0148 | 2022-05-13 | Mark Turner | Unanimous | Approved budget for RSE awards to be presented at conference |
+| D0149 | 2022-05-13 | Mark Turner | Unanimous | Approved opening up the Society's process documents to community |
