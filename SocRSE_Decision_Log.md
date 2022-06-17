@@ -165,3 +165,8 @@ If required for clarity, a reason for the decision will be added.
 | D0147 | 2022-05-13 | Mark Turner | Unanimous | Approved RSE Landscape Review |
 | D0148 | 2022-05-13 | Mark Turner | Unanimous | Approved budget for RSE awards to be presented at conference |
 | D0149 | 2022-05-13 | Mark Turner | Unanimous | Approved opening up the Society's process documents to community |
+| D0150 | 2022-06-16 | Mark Turner | Unanimous | Approved the EDIA strategy |
+| D0151 | 2022-06-16 | Mark Turner | Unanimous | Approved bringing constitutional changes on length of trustee term to the members |
+| D0152 | 2022-06-16 | Mark Turner | Unanimous | Approved funding for RSLondonSouthEast event |
+| D0153 | 2022-06-16 | Mark Turner | Unanimous | Approved funding for RSE Asia's Zoom license |
+| D0154 | 2022-06-16 | Mark Turner | Unanimous | Approved funding for RSE Asia/AUNZ Unconference |
