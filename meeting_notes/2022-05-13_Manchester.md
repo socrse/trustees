@@ -1,6 +1,6 @@
 # Society of RSE Trustees Meeting
 
-13th April 2022 (Manchester)
+13th May 2022 (Manchester)
 
 ## Attendees
 
