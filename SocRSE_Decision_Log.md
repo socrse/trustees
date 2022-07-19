@@ -170,3 +170,5 @@ If required for clarity, a reason for the decision will be added.
 | D0152 | 2022-06-16 | Mark Turner | Unanimous | Approved funding for RSLondonSouthEast event |
 | D0153 | 2022-06-16 | Mark Turner | Unanimous | Approved funding for RSE Asia's Zoom license |
 | D0154 | 2022-06-16 | Mark Turner | Unanimous | Approved funding for RSE Asia/AUNZ Unconference |
+| D0155 | 2022-07-19 | Mark Turner | Consent agenda | Approved changes to the Scheme of Delegation |
+| D0156 | 2022-07-19 | Mark Turner | Vote (7 yes, 1 abstain) | Voted not to offer online tickets to the RSECon 2022 |
