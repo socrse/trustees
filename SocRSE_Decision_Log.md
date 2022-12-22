@@ -172,3 +172,8 @@ If required for clarity, a reason for the decision will be added.
 | D0154 | 2022-06-16 | Mark Turner | Unanimous | Approved funding for RSE Asia/AUNZ Unconference |
 | D0155 | 2022-07-19 | Mark Turner | Consent agenda | Approved changes to the Scheme of Delegation |
 | D0156 | 2022-07-19 | Mark Turner | Vote (7 yes, 1 abstain) | Voted not to offer online tickets to the RSECon 2022 |
+| D0157 | 2022-08-18 | Gillian Sinclair | Unanimous | Voted to get a quote for the mentoring scheme from Coach Mentoring |
+| D0158 | 2022-08-18 | Gillian Sinclair | Unanimous | Approved funding for IoT for Novices in South Africa event |
+| D0159 | 2022-11-14 | Gillian Sinclair | Unanimous | Approved the health and safety policy |
+| D0160 | 2022-11-14 | Gillian Sinclair | Unanimous | Approved the volunteer management policy |
+| D0161 | 2022-11-14 | Gillian Sinclair | Unanimous | Approved funding for a R workshop |
