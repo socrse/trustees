@@ -178,3 +178,4 @@ If required for clarity, a reason for the decision will be added.
 | D0160 | 2022-11-14 | Gillian Sinclair | Unanimous | Approved the volunteer management policy |
 | D0161 | 2022-11-14 | Gillian Sinclair | Unanimous | Approved funding for a R workshop |
 | D0162 | 2023-01-16 | Gillian Sinclair | Unanimous | Approved the setting up of a Wise account to make international transfers easier |
+| D0163 | 2023-02-24 | Gillian Sinclair | Unanimous | Terms of engagement with the SSI |
