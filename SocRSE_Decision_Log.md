@@ -182,3 +182,4 @@ If required for clarity, a reason for the decision will be added.
 | D0164 | 2023-04-19 | Gillian Sinclair | Unanimous | Approved the long-term ongoing subscriptions to both Menti and Sli.do |
 | D0165 | 2023-05-19 | Gillian Sinclair | Unanimous | Approved funding support for RSLondonSouthEast|
 | D0166 | 2023-07-18 | Gillian Sinclair | Unanimous | Approved SSI donation to the Society|
+| D0167 | 2023-07-18 | Gillian Sinclair | Unanimous | Approved underwriting the costs of its officers to attend the AGM and/or associated meetings as part of the annual conference, if officers have exhausted all other sources of funding|
