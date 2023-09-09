@@ -172,14 +172,16 @@ If required for clarity, a reason for the decision will be added.
 | D0154 | 2022-06-16 | Mark Turner | Unanimous | Approved funding for RSE Asia/AUNZ Unconference |
 | D0155 | 2022-07-19 | Mark Turner | Consent agenda | Approved changes to the Scheme of Delegation |
 | D0156 | 2022-07-19 | Mark Turner | Vote (7 yes, 1 abstain) | Voted not to offer online tickets to the RSECon 2022 |
-| D0157 | 2022-08-18 | Gillian Sinclair | Unanimous | Voted to get a quote for the mentoring scheme from Coach Mentoring |
-| D0158 | 2022-08-18 | Gillian Sinclair | Unanimous | Approved funding for IoT for Novices in South Africa event |
-| D0159 | 2022-11-14 | Gillian Sinclair | Unanimous | Approved the health and safety policy |
-| D0160 | 2022-11-14 | Gillian Sinclair | Unanimous | Approved the volunteer management policy |
-| D0161 | 2022-11-14 | Gillian Sinclair | Unanimous | Approved funding for a R workshop |
-| D0162 | 2023-01-16 | Gillian Sinclair | Unanimous | Approved the setting up of a Wise account to make international transfers easier |
-| D0163 | 2023-02-24 | Gillian Sinclair | Unanimous | Approved the terms of engagement with the SSI |
-| D0164 | 2023-04-19 | Gillian Sinclair | Unanimous | Approved the long-term ongoing subscriptions to both Menti and Sli.do |
-| D0165 | 2023-05-19 | Gillian Sinclair | Unanimous | Approved funding support for RSLondonSouthEast|
-| D0166 | 2023-07-18 | Gillian Sinclair | Unanimous | Approved SSI donation to the Society|
-| D0167 | 2023-07-18 | Gillian Sinclair | Unanimous | Approved underwriting the costs of its officers to attend the AGM and/or associated meetings as part of the annual conference, if officers have exhausted all other sources of funding|
+| D0157 | 2022-08-18 | Mark Turner | Unanimous | Agreed to get a quote from Coach Mentoring for the mentoring scheme to be run again starting in January |
+| D0158 | 2022-08-18 | Mark Turner | Unanimous | Approved an events and initiatives funding application for £1,100 submitted by Jannetta Steyn |
+| D0159 | 2022-08-18 | Gillian Sinclair | Unanimous | Voted to get a quote for the mentoring scheme from Coach Mentoring |
+| D0160 | 2022-08-18 | Gillian Sinclair | Unanimous | Approved funding for IoT for Novices in South Africa event |
+| D0161 | 2022-11-14 | Gillian Sinclair | Unanimous | Approved the health and safety policy |
+| D0162 | 2022-11-14 | Gillian Sinclair | Unanimous | Approved the volunteer management policy |
+| D0163 | 2022-11-14 | Gillian Sinclair | Unanimous | Approved funding for a R workshop |
+| D0164 | 2023-01-16 | Gillian Sinclair | Unanimous | Approved the setting up of a Wise account to make international transfers easier |
+| D0165 | 2023-02-24 | Gillian Sinclair | Unanimous | Approved the terms of engagement with the SSI |
+| D0166 | 2023-04-19 | Gillian Sinclair | Unanimous | Approved the long-term ongoing subscriptions to both Menti and Sli.do |
+| D0167 | 2023-05-19 | Gillian Sinclair | Unanimous | Approved funding support for RSLondonSouthEast|
+| D0168 | 2023-07-18 | Gillian Sinclair | Unanimous | Approved SSI donation to the Society|
+| D0169 | 2023-07-18 | Gillian Sinclair | Unanimous | Approved underwriting the costs of its officers to attend the AGM and/or associated meetings as part of the annual conference, if officers have exhausted all other sources of funding|
