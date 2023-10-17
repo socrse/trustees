@@ -186,3 +186,6 @@ If required for clarity, a reason for the decision will be added.
 | D0168 | 2023-07-18 | Gillian Sinclair | Unanimous | Approved SSI donation to the Society|
 | D0169 | 2023-07-18 | Gillian Sinclair | Unanimous | Approved underwriting the costs of its officers to attend the AGM and/or associated meetings as part of the annual conference, if officers have exhausted all other sources of funding|
 | D0170 | 2023-08-25 | Matt Williams | Unanimous | Approved the trustee annual report (conditional on external financial examination) |
+| D0171 | 2023-09-26 | Gillian Sinclair | Unanimous | Approved delegation and budget for events and initiatives fund|
+| D0172 | 2023-09-26 | Gillian Sinclair | Vote (8 yes, 2 no) | Approved funding for 5 years for RSLondonSouthEast workshops at a rate of £1k per annum |
+| D0173 | 2023-09-26 | Gillian Sinclair | Unanimous | Approved paid subscription to Wild Apricot|
