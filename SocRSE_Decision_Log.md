@@ -189,3 +189,4 @@ If required for clarity, a reason for the decision will be added.
 | D0171 | 2023-09-26 | Gillian Sinclair | Unanimous | Approved delegation and budget for events and initiatives fund|
 | D0172 | 2023-09-26 | Gillian Sinclair | Vote (8 yes, 2 no) | Approved funding for 5 years for RSLondonSouthEast workshops at a rate of £1k per annum |
 | D0173 | 2023-09-26 | Gillian Sinclair | Unanimous | Approved paid subscription to Wild Apricot|
+| D0174 | 2023-11-23 | Gillian Sinclair | Unanimous | Approved delegation of the conference budegt to the conference committee|
