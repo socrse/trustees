@@ -190,3 +190,7 @@ If required for clarity, a reason for the decision will be added.
 | D0172 | 2023-09-26 | Gillian Sinclair | Vote (8 yes, 2 no) | Approved funding for 5 years for RSLondonSouthEast workshops at a rate of £1k per annum |
 | D0173 | 2023-09-26 | Gillian Sinclair | Unanimous | Approved paid subscription to Wild Apricot|
 | D0174 | 2023-11-23 | Gillian Sinclair | Unanimous | Approved delegation of the conference budegt to the conference committee|
+| D0175 | 2023-12-15 | Fliss Guest | Consent agenda | Approved David Beavan and Mary Chester-Kadwell to lead response to the UKRI funded "Towards a National Collection" programme |
+| D0176 | 2023-12-15 | Fliss Guest | Consent agenda | Approved Letter of Support for Software Sustainability Institute Phase 4 |
+| D0177 | 2023-12-15 | Fliss Guest | Vote (8 yes, 1 no) | Approved the move to Wild Apricot, and associated expenditure and an overlap period of both systems |
+| D0178 | 2023-12-15 | Fliss Guest | Unanimous | Approved skeleton programme for RSECon24 |
