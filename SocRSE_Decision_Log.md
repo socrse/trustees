@@ -195,3 +195,7 @@ If required for clarity, a reason for the decision will be added.
 | D0177 | 2023-12-15 | Fliss Guest | Vote (8 yes, 1 no) | Approved the move to Wild Apricot, and associated expenditure and an overlap period of both systems |
 | D0178 | 2023-12-15 | Fliss Guest | Unanimous | Approved skeleton programme for RSECon24 |
 | D0179 | 2024-02-29 | Gillian Sinclair | Consent agenda | Approved expenditure for mentoring programme 2024 |
+| D0180 | 2024-02-29 | Gillian Sinclair | Unanimous | Approved expansion of Policy on Revocation of Access Rights for Outgoing trustees to a more general Policy on Infrastructure Access Rights For Trustees and Collaborators |
+| D0181 | 2024-02-29 | Gillian Sinclair | Unanimous | Approved migration of mailing list to SendGrid |
+| D0182 | 2024-02-29 | Gillian Sinclair | Unanimous | RSECon24 themes approved |
+| D0183 | 2024-02-29 | Gillian Sinclair | Unanimous | Migration to Wild Apricot to go ahead |
