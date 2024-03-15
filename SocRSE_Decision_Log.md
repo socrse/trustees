@@ -194,3 +194,4 @@ If required for clarity, a reason for the decision will be added.
 | D0176 | 2023-12-15 | Fliss Guest | Consent agenda | Approved Letter of Support for Software Sustainability Institute Phase 4 |
 | D0177 | 2023-12-15 | Fliss Guest | Vote (8 yes, 1 no) | Approved the move to Wild Apricot, and associated expenditure and an overlap period of both systems |
 | D0178 | 2023-12-15 | Fliss Guest | Unanimous | Approved skeleton programme for RSECon24 |
+| D0179 | 2024-02-29 | Gillian Sinclair | Consent agenda | Approved expenditure for mentoring programme 2024 |
