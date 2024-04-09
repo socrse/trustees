@@ -199,3 +199,9 @@ If required for clarity, a reason for the decision will be added.
 | D0181 | 2024-02-29 | Gillian Sinclair | Unanimous | Approved migration of mailing list to SendGrid |
 | D0182 | 2024-02-29 | Gillian Sinclair | Unanimous | RSECon24 themes approved |
 | D0183 | 2024-02-29 | Gillian Sinclair | Unanimous | Migration to Wild Apricot to go ahead |
+| D0184 | 2024-03-26 | Gillian Sinclair | Vote (10 in favour, 1 abstention) | Approval of Anne-Marie Imafidon (and associated fees) as keynote speaker for RSE 2024 conference|
+| D0184 | 2024-03-26 | Gillian Sinclair |Unanimous | Approval of Muzlifah Haniffa as secondary keynote speaker for RSE 2024 conference|
+| D0184 | 2024-03-26 | Gillian Sinclair |Unanimous | Approval of increasing the total expenditure limit delegated to the trustees on the Conference Steering Group|
+| D0184 | 2024-03-26 | Gillian Sinclair |Unanimous | Approval of a baseline budget of £140,000 total expenditure, including a £10,000 contingency for unplanned expenditure.|
+| D0184 | 2024-03-26 | Gillian Sinclair |Unanimous | Approval to delegate authority for Conference Steering Group trustees to increase expenditure within the delegated total expenditure limit as additional sponsorship + donation income is confirmed|
+| D0184 | 2024-03-26 | Gillian Sinclair |Unanimous | Approval to delegate authority for Conference Steering Group trustees to commit additional expenditure as needed within the delegated total expenditure limit to support an increased conference size of up to 450 in-person attendees|
