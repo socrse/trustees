@@ -205,3 +205,5 @@ If required for clarity, a reason for the decision will be added.
 | D0184 | 2024-03-26 | Gillian Sinclair |Unanimous | Approval of a baseline budget of £140,000 total expenditure, including a £10,000 contingency for unplanned expenditure.|
 | D0184 | 2024-03-26 | Gillian Sinclair |Unanimous | Approval to delegate authority for Conference Steering Group trustees to increase expenditure within the delegated total expenditure limit as additional sponsorship + donation income is confirmed|
 | D0184 | 2024-03-26 | Gillian Sinclair |Unanimous | Approval to delegate authority for Conference Steering Group trustees to commit additional expenditure as needed within the delegated total expenditure limit to support an increased conference size of up to 450 in-person attendees|
+| D0185 | 2024-04-25 | Gillian Sinclair | Consent Agenda | Approved support for the HiddenREF in terms of offering access to community, trustee time and advice|
+| D0186 | 2024-04-25 | Gillian Sinclair | Consent Agenda | Approved support for the Turing/EBI Advancing Biomedical Data Science Careers bid by offering access to community, trustee time and advice|
