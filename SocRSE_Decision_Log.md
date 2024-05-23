@@ -207,3 +207,6 @@ If required for clarity, a reason for the decision will be added.
 | D0184 | 2024-03-26 | Gillian Sinclair |Unanimous | Approval to delegate authority for Conference Steering Group trustees to commit additional expenditure as needed within the delegated total expenditure limit to support an increased conference size of up to 450 in-person attendees|
 | D0185 | 2024-04-25 | Gillian Sinclair | Consent Agenda | Approved support for the HiddenREF in terms of offering access to community, trustee time and advice|
 | D0186 | 2024-04-25 | Gillian Sinclair | Consent Agenda | Approved support for the Turing/EBI Advancing Biomedical Data Science Careers bid by offering access to community, trustee time and advice|
+| D0187 | 2024-05-23 | Fliss Guest | Unanimous | Approved changes to RSE Conference Terms of Reference |
+| D0188 | 2024-05-23 | Fliss Guest | Unanimous | Approved cover of travel and accommodation for 2024 International Research Software Funders Workshop invitee |
+
