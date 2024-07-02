@@ -209,4 +209,7 @@ If required for clarity, a reason for the decision will be added.
 | D0186 | 2024-04-25 | Gillian Sinclair | Consent Agenda | Approved support for the Turing/EBI Advancing Biomedical Data Science Careers bid by offering access to community, trustee time and advice|
 | D0187 | 2024-05-23 | Fliss Guest | Unanimous | Approved changes to RSE Conference Terms of Reference |
 | D0188 | 2024-05-23 | Fliss Guest | Unanimous | Approved cover of travel and accommodation for 2024 International Research Software Funders Workshop invitee |
-
+| D0189 | 2024-06-27 | Gillian Sinclair | Unanimous | Approved higher overall expenditure delegation to cover the additional variable costs in the current budget up to a max of 450 attendees |
+| D0190 | 2024-06-27 | Gillian Sinclair | Unanimous with one abstention | Approved of the shortlisting of 3 Emerging Voice Plenary speakers for the conference therefore allowing the chair to make the final decision ASAP |
+| D0191 | 2024-06-27 | Gillian Sinclair | Unanimous | Approved the funding of £1400 for Mental First Aid training for 3 people for the RSE conference |
+| D0192 | 2024-06-27 | Gillian Sinclair | Unanimous | Approved a temporary uplift in the Conference and Events budget from £10k to £12k to accommodate any newly approved event funding requests from now until September |
