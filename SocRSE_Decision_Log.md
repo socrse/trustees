@@ -213,3 +213,6 @@ If required for clarity, a reason for the decision will be added.
 | D0190 | 2024-06-27 | Gillian Sinclair | Unanimous with one abstention | Approved of the shortlisting of 3 Emerging Voice Plenary speakers for the conference therefore allowing the chair to make the final decision ASAP |
 | D0191 | 2024-06-27 | Gillian Sinclair | Unanimous | Approved the funding of £1400 for Mental First Aid training for 3 people for the RSE conference |
 | D0192 | 2024-06-27 | Gillian Sinclair | Unanimous | Approved a temporary uplift in the Conference and Events budget from £10k to £12k to accommodate any newly approved event funding requests from now until September |
+| D0193 | 2024-07-25 | Gillian Sinclair | Unanimous | Members of the Society Finance team should undergo DBS checks |
+| D0194 | 2024-07-25 | Gillian Sinclair | Unanimous | Pip Grylls from Warwick University to be Programme Chair for RSE25 contingent on ballpark costs and steering towards a co-chair from the community |
+| D0195 | 2024-07-25 | Gillian Sinclair | Unanimous | Society Statement of Support for RSECon24 Community Discovery Day |
