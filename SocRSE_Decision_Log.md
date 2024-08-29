@@ -216,3 +216,7 @@ If required for clarity, a reason for the decision will be added.
 | D0193 | 2024-07-25 | Gillian Sinclair | Unanimous | Members of the Society Finance team should undergo DBS checks |
 | D0194 | 2024-07-25 | Gillian Sinclair | Unanimous | Programme Chair for RSECon25 contingent on ballpark costs and steering towards a co-chair from the community |
 | D0195 | 2024-07-25 | Gillian Sinclair | Unanimous | Society Statement of Support for RSECon24 Community Discovery Day |
+| D0196 | 2024-08-19 | Gillian Sinclair | Unanimous | Approved RSECon24 reserve speaker Michelle Barker (if available) |
+| D0197 | 2024-08-19 | Gillian Sinclair | Unanimous | Finance & Membership to change Direct Debit provider from GoCardless to Stripe |
+| D0198 | 2024-08-19 | Gillian Sinclair | Unanimous with one abstention | Decision in principle on accepting potential Chan Zuckerberg Initiative income |
+| D0199 | 2024-08-19 | Gillian Sinclair | Unanimous with one abstention  | Approved announcement of distribution of surplus / additional community expenditure to be made at the AGM |
