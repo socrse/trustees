@@ -220,3 +220,6 @@ If required for clarity, a reason for the decision will be added.
 | D0197 | 2024-08-19 | Gillian Sinclair | Unanimous | Finance & Membership to change Direct Debit provider from GoCardless to Stripe |
 | D0198 | 2024-08-19 | Gillian Sinclair | Unanimous with one abstention | Decision in principle on accepting potential Chan Zuckerberg Initiative income |
 | D0199 | 2024-08-19 | Gillian Sinclair | Unanimous with one abstention  | Approved announcement of distribution of surplus / additional community expenditure to be made at the AGM |
+| D0200 | 2024-08-19 | Gillian Sinclair | Unanimous  | Approved allocation of trustee roles |
+| D0200 | 2024-08-19 | Gillian Sinclair | Unanimous  | Approved the formation of an Environmental Impact of Research Software SIG |
+| D0200 | 2024-08-19 | Gillian Sinclair | Unanimous  | Approved the formation of a Reasonable Performance Computing SIG with the caveat that they should talk to the above groups |
