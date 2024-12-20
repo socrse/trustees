@@ -220,6 +220,13 @@ If required for clarity, a reason for the decision will be added.
 | D0197 | 2024-08-19 | Gillian Sinclair | Unanimous | Finance & Membership to change Direct Debit provider from GoCardless to Stripe |
 | D0198 | 2024-08-19 | Gillian Sinclair | Unanimous with one abstention | Decision in principle on accepting potential Chan Zuckerberg Initiative income |
 | D0199 | 2024-08-19 | Gillian Sinclair | Unanimous with one abstention  | Approved announcement of distribution of surplus / additional community expenditure to be made at the AGM |
-| D0200 | 2024-08-19 | Gillian Sinclair | Unanimous  | Approved allocation of trustee roles |
-| D0200 | 2024-08-19 | Gillian Sinclair | Unanimous  | Approved the formation of an Environmental Impact of Research Software SIG |
-| D0200 | 2024-08-19 | Gillian Sinclair | Unanimous  | Approved the formation of a Reasonable Performance Computing SIG with the caveat that they should talk to the above groups |
+| D0200 | 2024-09-26 | Gillian Sinclair | Unanimous  | Approved allocation of trustee roles |
+| D0201 | 2024-10-31 | Gillian Sinclair | Unanimous  | Approved the formation of an Environmental Impact of Research Software SIG |
+| D0202 | 2024-10-31 | Gillian Sinclair | Unanimous  | Approved the formation of a Reasonable Performance Computing SIG with the caveat that they should talk to the above groups |
+| D0204 | 2024-11-28 | Stef Piatek | Unanimous |  Approved the HPC RSE special interest group |
+| D0205 | 2024-11-28 | Stef Piatek | Unanimous |  Approved the RSECon25 vision statement and delegation to the RSECon25 steering group |
+| D0206 | 2024-11-28 | Stef Piatek | 10 approvals, one abstention | SocRSE to join bluesky and pay for buffer to allow multiple spcial media account management |
+| D0207 | 2024-11-28 | Stef Piatek | Unanimous | Delegation of budget authority for RSECon25 |
+| D0208| 2024-11-28 | Stef Piatek | Passed, with two votes against | Delegation of up to £2,500 to the Events working group for funding the pre-seeds program |
+| D0209 | 2024-12-18 | Gillian Sinclair | Unanimous |  Approved the Teaching and Training Special Interest Group |
+| D0210 | 2024-12-18 | Gillian Sinclair | Unanimous |  Approved the creation of a Policy Trustee role |
