@@ -2,7 +2,7 @@
 
 Public notes from SocRSE Board of Trustees meetings.
 ## 2025
--[2025-01-21, Online] (2025-01-21_Online.md)
+-[2025-01-21, Online](2025-01-21_Online.md)
 
 ## 2024
 - [2024-08-19, Online](2024-08-19_Online.md)
