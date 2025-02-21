@@ -230,7 +230,7 @@ If required for clarity, a reason for the decision will be added.
 | D0208| 2024-11-28 | Stef Piatek | Passed, with two votes against | Delegation of up to £2,500 to the Events working group for funding the pre-seeds program |
 | D0209 | 2024-12-18 | Gillian Sinclair | Unanimous |  Approved the Teaching and Training Special Interest Group |
 | D0210 | 2024-12-18 | Gillian Sinclair | Unanimous |  Approved the creation of a Policy Trustee role |
-| D0211 | 2025-01-21 | Pip Grylls  | Unanimous   | Accept plan and quote from Coach Mentoring for £5,950 (excluding VAT) for 20 pairs, £25 for each additional pair matched |
-| D0212 | 2025-01-21 | Pip Grylls  | Unanimous | Approve geoscience RSEs Special Interest Group   |
-| D0213 | 2025-01-21 | Pip Grylls  | Unanimous  | Approve sponsorship packages for RSECon25   |
+| D0211 | 2025-01-21 | Stef Piatek  | Unanimous   | Accept plan and quote from Coach Mentoring for £5,950 (excluding VAT) for 20 pairs, £25 for each additional pair matched |
+| D0212 | 2025-01-21 | Stef Piatek  | Unanimous | Approve geoscience RSEs Special Interest Group   |
+| D0213 | 2025-01-21 | Stef Piatek  | Unanimous  | Approve sponsorship packages for RSECon25   |
 | D0214 | 2025-01-21 | Stef Piatek | Unanimous, Pip abstaining | Appoint Pip Grylls as Funding and Policy role     |
