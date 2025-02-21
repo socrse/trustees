@@ -234,3 +234,6 @@ If required for clarity, a reason for the decision will be added.
 | D0212 | 2025-01-21 | Stef Piatek  | Unanimous | Approve geoscience RSEs Special Interest Group   |
 | D0213 | 2025-01-21 | Stef Piatek  | Unanimous  | Approve sponsorship packages for RSECon25   |
 | D0214 | 2025-01-21 | Stef Piatek | Unanimous, Pip abstaining | Appoint Pip Grylls as Funding and Policy role     |
+| D0215 | 2025-02-21 | Gillian Sinclair  | Approved - 5 in favour in room, 2 voted ahead of hte meeting, 3 abstentions | RSE Society to leave X |
+| D0216 | 2025-02-21 | Gillian Sinclair  | Unanimous | Keynote speakers approved for RSECon25 |
+| D0217 | 2025-02-21 | Gillian Sinclair  | Approved. 7 in favour, 1 abstention. | RSECon25 dinner speaker approved |
