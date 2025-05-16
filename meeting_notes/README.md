@@ -6,6 +6,7 @@ Public notes from SocRSE Board of Trustees meetings.
 - [2025-02-20, Online](2025-02-20_Online.md)
 - [2025-03-06, London](2025-03-06_London.md)
 - [2025-04-10, Online](2025-04-10_Online.md)
+- [2025-05-15, Online](2025-05-15_Online.md)
 
 ## 2024
 - [2024-08-19, Online](2024-08-19_Online.md)
