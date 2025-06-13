@@ -239,7 +239,6 @@ If required for clarity, a reason for the decision will be added.
 | D0217 | 2025-02-21 | Gillian Sinclair  | Approved. 7 in favour, 1 abstention. | RSECon25 dinner speaker approved |
 | D0218 | 2025-04-10 | Gillian Sinclair  | Unanimous | Move to the next tier of VM with double the amount of RAM and storage increasing the monthly cost from $12 to $24 |
 | D0219 | 2025-04-10 | Gillian Sinclair  | 8 in favour, 1 abstention | Appoint the Programme Chair for RSECon26 |
-
 | D0220 | 2025-04-10 | Gillian Sinclair  | Unanimous | Creation of a Fortran SIG |
 | D0221 | 2025-04-10 | Gillian Sinclair  | Unanimous | Delegate discretionary “miscellaneous” budget of £500  to all working groups  |
 | D0222 | 2025-04-10 | Gillian Sinclair  | Unanimous | Approval of Green SIG logo subject to approval from SSI  |
