@@ -244,3 +244,6 @@ If required for clarity, a reason for the decision will be added.
 | D0222 | 2025-04-10 | Gillian Sinclair  | Unanimous | Approval of Green SIG logo subject to approval from SSI  |
 | D0223 | 2025-05-15 | Gillian Sinclair  | Unanimous | Appoint Marion Weinzierl as a trustee until the AGM to help with finance admin burden  |
 | D0224 | 2025-05-15 | Gillian Sinclair  | Unanimous | Delegate authority to finance trustees to be able to change number of sponsorship packages at each level to enhance ability to generate revenue |
+| D0225 | 2025-06-13 | Gillian Sinclair  | Unanimous | Allocate an additional £5k to Events & Initiatives Fund subjuect to budget clarification |
+| D0226 | 2025-06-13 | Gillian Sinclair  | Unanimous with on abstention | Approved member and non-member surveys |
+| D0227 | 2025-06-13 | Gillian Sinclair  | Unanimous with on abstention | Approved £3k funding for Festival of Hidden REF |
