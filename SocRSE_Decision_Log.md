@@ -251,3 +251,4 @@ If required for clarity, a reason for the decision will be added.
 | D0229 | 2025-07-15 | Stef Piatek  | Unanimous | Register as an exhibitor for CIUK |
 | D0230 | 2025-07-15 | Stef Piatek  | Unanimous | Increase delegated expenditure limt for RSECon25 from £125,000 to £180,000 |
 | D0231 | 2025-07-15 | Stef Piatek  | Unanimous with one abstention | Separate the infrastructure & web group. Trustees only in the infrastructure group, create a web working group |
+| D0232 | 2025-07-03 | Stef Piatek | Approved via slack vote (0 Approved, 6 abstained) | Retrospectively accept AWE - Nuclear Security Technologies as a conference sponsor for 2025 |
