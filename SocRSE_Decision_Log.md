@@ -252,3 +252,6 @@ If required for clarity, a reason for the decision will be added.
 | D0230 | 2025-07-15 | Stef Piatek  | Unanimous | Increase delegated expenditure limt for RSECon25 from £125,000 to £180,000 |
 | D0231 | 2025-07-15 | Stef Piatek  | Unanimous with one abstention | Separate the infrastructure & web group. Trustees only in the infrastructure group, create a web working group |
 | D0232 | 2025-07-03 | Stef Piatek | Approved via slack vote (9 Approved within time window, no other votes recorded) | Retrospectively accept AWE - Nuclear Security Technologies as a conference sponsor for 2025 |
+| D0233 | 2025-08-14 | Stef Piatek | Unanimous with one abstention | Fund a Xero automation training session for finance team to reduce manual workload at a cost of ~£350-700 |
+| D0234 | 2025-08-14 | Stef Piatek | Unanimously approved | Share more detailed annotated finance acounts with members alongside trustee report | 
+| D0235 | 2025-08-14 | Stef Piatek | Unanimous with one abstention | Move our Xero accounts from current accountant, and explore options for other accountants |
