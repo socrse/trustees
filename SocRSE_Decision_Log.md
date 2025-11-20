@@ -256,7 +256,7 @@ If required for clarity, a reason for the decision will be added.
 | D0234 | 2025-08-14 | Stef Piatek | Unanimously approved | Share more detailed annotated finance acounts with members alongside trustee report | 
 | D0235 | 2025-08-14 | Stef Piatek | Unanimous with one abstention | Move our Xero accounts from current accountant, and explore options for other accountants |
 | D0236 | 2025-08-14 | Stef Piatek | Consent agenda | Mentoring working group to spend up to £75 on stickers for those involved in the scheme | 
-| D0237 | 2025-09-03 | Stef Piatek | Unanimous | SocRSE to promote the International RSE Survey | 
-| D0238 | 2025-09-03 | Stef Piatek | Unanimous | SocRSE to sponsor a prize for using the data from the International RSE Survey with a plenary slot at RSECon26 & cash prize or RSECon admission cost covered |
+| D0237 | 2025-10-03 | Stef Piatek | Unanimous | SocRSE to promote the International RSE Survey | 
+| D0238 | 2025-10-03 | Stef Piatek | Unanimous | SocRSE to sponsor a prize for using the data from the International RSE Survey with a plenary slot at RSECon26 & cash prize or RSECon admission cost covered |
 | D0239 | 2025-11-10 | William Haese-Hill | Unanimous | Inviting Lord Vallance as a keynote speaker |
 | D0240 | 2025-11-10 | William Haese-Hill | Unanimous | Inviting Arfon Smith as a keynote speaker |
