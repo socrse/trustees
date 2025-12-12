@@ -260,3 +260,8 @@ If required for clarity, a reason for the decision will be added.
 | D0238 | 2025-10-03 | Stef Piatek | Unanimous | SocRSE to sponsor a prize for using the data from the International RSE Survey with a plenary slot at RSECon26 & cash prize or RSECon admission cost covered |
 | D0239 | 2025-11-10 | William Haese-Hill | Unanimous | Inviting Lord Vallance as a keynote speaker |
 | D0240 | 2025-11-10 | William Haese-Hill | Unanimous | Inviting Arfon Smith as a keynote speaker |
+| D0241 | 2025-12-08 | Stef Piatek | Consent agenda | [RSE intern case study questions](https://github.com/socrse/edia/issues/61) |
+| D0242 | 2025-12-08 | Stef Piatek | Unanimous with 1 abstention | Approve terms of reference for Web Working Group |
+| D0243 | 2025-12-08 | Stef Piatek | Unanimous | Approve terms of reference for RSE Leaders Special Interest Group |
+| D0244 | 2025-12-08 | Stef Piatek | Unanimous | Approve updated terms of reference for Mentoring Working Group |
+| D0245 | 2025-12-08 | Stef Piatek | Unanimous | SocRSE to sponsor SSI Collaborations Workshop at Gold level |
