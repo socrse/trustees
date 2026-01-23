@@ -265,3 +265,7 @@ If required for clarity, a reason for the decision will be added.
 | D0243 | 2025-12-08 | Stef Piatek | Unanimous | Approve terms of reference for RSE Leaders Special Interest Group |
 | D0244 | 2025-12-08 | Stef Piatek | Unanimous | Approve updated terms of reference for Mentoring Working Group |
 | D0245 | 2025-12-08 | Stef Piatek | Unanimous | SocRSE to sponsor SSI Collaborations Workshop at Gold level |
+| D0246 | 2026-01-20 | William Haese-Hill | Consent agenda | Undertake a review of our Code of Conduct policy and processes |
+| D0247 | 2026-01-20 | William Haese-Hill | Unanimous with 2 abstentions | Approve letter of support for Responsible Computing Network |
+| D0248 | 2026-01-20 | William Haese-Hill | Unanimous | Quote for SocRSE Mentoring Proposal |
+| D0249 | 2026-01-20 | William Haese-Hill | Unanimous | Approval for Policy and Funding WG ToR |
