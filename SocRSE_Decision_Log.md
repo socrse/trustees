@@ -269,3 +269,7 @@ If required for clarity, a reason for the decision will be added.
 | D0247 | 2026-01-20 | William Haese-Hill | Unanimous with 2 abstentions | Approve letter of support for Responsible Computing Network |
 | D0248 | 2026-01-20 | William Haese-Hill | Unanimous | Quote for SocRSE Mentoring Proposal |
 | D0249 | 2026-01-20 | William Haese-Hill | Unanimous | Approval for Policy and Funding WG ToR |
+| D0250 | 2026-02-12 | Stef Piatek | Consent agenda | Update membership terms and conditions “inform the member by email or in writing of the reasons why it is proposed to remove him, her or it from membership;” to: “inform the member by email or in writing of the reasons why it is proposed to remove them from membership;” |
+| D0251 | 2026-02-12 | Stef Piatek | Consent agenda | Add Code4Thought prize at RSECon awards session, based on designing a logo for the podcast |
+| D0252 | 2026-02-12 | Stef Piatek | Unanimous | Allocate at least another £5,000 to the SocRSE Events and Initiatives budget |
+| D0253 | 2026-02-12 | Stef Piatek | Unanimous | Delegation for the RSECon26 conference committee to spend up to £150,000, covering the costs of the likely scenario with surplus of £9,000 |
