@@ -273,3 +273,7 @@ If required for clarity, a reason for the decision will be added.
 | D0251 | 2026-02-12 | Stef Piatek | Consent agenda | Add Code4Thought prize at RSECon awards session, based on designing a logo for the podcast |
 | D0252 | 2026-02-12 | Stef Piatek | Unanimous | Allocate at least another £5,000 to the SocRSE Events and Initiatives budget |
 | D0253 | 2026-02-12 | Stef Piatek | Unanimous | Delegation for the RSECon26 conference committee to spend up to £150,000, covering the costs of the likely scenario with surplus of £9,000 |
+| D0254 | 2026-03-12 | Stef Piatek | Unanimous  |  Approve one-off spend up to £8,000 for RSECon26 10th RseCon   |
+| D0256 | 2026-03-12 | Stef Piatek | Unanimous  |  Approve minimum commitment of £10,000 for RSECon26 RseCon26 bursaries, which was previously £5,000  |
+| D0257 | 2026-03-12 | Stef Piatek | Unanimous | Explore giving free membership to student members |
+| D0258 | 2026-03-12 | Stef Piatek | Unanimous | Commit £1,500 to policy and funding working group for event in June and other planned activities |
