@@ -1,12 +1,25 @@
 # SocRSE Board of Trustees Meeting Notes
 
 Public notes from SocRSE Board of Trustees meetings.
+
+
+## 2026
+- [2026-01-20, Online](2026-01-20_Online.md)
+- [2026-02-12, Online](2026-02-12_Online.md)
+
 ## 2025
 - [2025-01-21, Online](2025-01-21_Online.md)
 - [2025-02-20, Online](2025-02-20_Online.md)
 - [2025-03-06, London](2025-03-06_London.md)
 - [2025-04-10, Online](2025-04-10_Online.md)
 - [2025-05-15, Online](2025-05-15_Online.md)
+- [2025-06-13, Online](2025-06-13_Online.md)
+- [2025-07-15, Online](2025-07-15_Online.md)
+- [2025-08-14, Online](2025-08-14_Online.md)
+- [2025-09-03, Online](2025-09-03_Online.md)
+- [2025-10-08, Online](2025-10-08_Online.md)
+- [2025-11-10, Online](2025-11-10_Online.md)
+- [2025-12-08, Online](2025-12-08_Online.md)
 
 ## 2024
 - [2024-08-19, Online](2024-08-19_Online.md)
