@@ -277,3 +277,4 @@ If required for clarity, a reason for the decision will be added.
 | D0256 | 2026-03-12 | Stef Piatek | Unanimous  |  Approve minimum commitment of £10,000 for RSECon26 RseCon26 bursaries, which was previously £5,000  |
 | D0257 | 2026-03-12 | Stef Piatek | Unanimous | Explore giving free membership to student members |
 | D0258 | 2026-03-12 | Stef Piatek | Unanimous | Commit £1,500 to policy and funding working group for event in June and other planned activities |
+| D0259 | 2026-04-20 | Stef Piatek | Approved via slack vote (10 Approved within time window, no other votes recorded) | Update Terms of Reference for RSECon based on Ethical Sponsorship consultation |
