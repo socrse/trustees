@@ -278,3 +278,7 @@ If required for clarity, a reason for the decision will be added.
 | D0257 | 2026-03-12 | Stef Piatek | Unanimous | Explore giving free membership to student members |
 | D0258 | 2026-03-12 | Stef Piatek | Unanimous | Commit £1,500 to policy and funding working group for event in June and other planned activities |
 | D0259 | 2026-04-20 | Stef Piatek | Approved via slack vote (10 Approved within time window, no other votes recorded) | Update Terms of Reference for RSECon based on Ethical Sponsorship consultation |
+| D0260 | 2026-04-24 | Stef Piatek | Consent Agenda | Advise RSECon26 sponsorship team not to proceed with contacting sponsor that may have reputational damage |
+| D0261 | 2026-04-24 | Stef Piatek | Unanimously approved | Funding £1,500 for Digital Humanities RSE Summer School from E&I Fund |
+| D0262 | 2026-04-24 | Stef Piatek | Unanimously approved | Venue specification and form for RSECon27 programme chair call |
+| D0263 | 2026-04-24 | Stef Piatek | Unanimously approved | Sponsor ReSA Conference (co-located with RSECon26) at bronze level (£5,000) |
