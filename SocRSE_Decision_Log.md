@@ -282,3 +282,6 @@ If required for clarity, a reason for the decision will be added.
 | D0261 | 2026-04-24 | Stef Piatek | Unanimously approved | Funding £1,500 for Digital Humanities RSE Summer School from E&I Fund |
 | D0262 | 2026-04-24 | Stef Piatek | Unanimously approved | Venue specification and form for RSECon27 programme chair call |
 | D0263 | 2026-04-24 | Stef Piatek | Unanimously approved | Sponsor ReSA Conference (co-located with RSECon26) at bronze level (£5,000) |
+| D0264 | 2026-05-15 | William Haese-Hill | Consent Agenda | Mike to use the in-person ticket and give the lightning talk for our sponsorship of IRSC in Sheffield. Society to pay for two nights’ additional accommodation + subsistence | 
+| D0265 | 2026-05-15 | William Haese-Hill | Consent Agenda | Invite Dylan Beattie to speak at the RSECon26 formal dinner |
+| D0266 | 2026-05-15 | William Haese-Hill | Consent Agenda | OLS bid for EDIHub+ funding (see discussion item). Dave, Mike and Stef to be empowered to investigate further and commit us if they think it’s a good idea. | 
