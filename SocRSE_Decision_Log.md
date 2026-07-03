@@ -285,3 +285,8 @@ If required for clarity, a reason for the decision will be added.
 | D0264 | 2026-05-15 | William Haese-Hill | Consent Agenda | Mike to use the in-person ticket and give the lightning talk for our sponsorship of IRSC in Sheffield. Society to pay for two nights’ additional accommodation + subsistence | 
 | D0265 | 2026-05-15 | William Haese-Hill | Consent Agenda | Invite Dylan Beattie to speak at the RSECon26 formal dinner |
 | D0266 | 2026-05-15 | William Haese-Hill | Consent Agenda | OLS bid for EDIHub+ funding (see discussion item). Dave, Mike and Stef to be empowered to investigate further and commit us if they think it’s a good idea. | 
+| D0267 | 2026-06-12 | Stef Piatek | Consent agenda | SocRSE having a stand at the [CIUK](https://www.sc.stfc.ac.uk/computing-insight-uk/) Research Zone | 
+| D0268 | 2026-06-12 | Stef Piatek | Consent agenda | Allocation of an additional £2,170 to the Events and Initiatives fund | 
+| D0269 | 2026-06-12 | Stef Piatek | Consent agenda | Engage Graphcore as a potential sponsor for RSECon | 
+| D0270 | 2026-06-12 | Stef Piatek | Consent agenda | Updating wording to [Complaints and Grievances Policy](https://society-rse.org/about/policies/complaints-and-grievances-policy/) (Removing "Dealing with Complaints and Grievances Informally") and [CoC for Events policy page](https://society-rse.org/about/policies/code-of-conduct/) | 
+| D0271 | 2026-06-12 | Stef Piatek | Unanimously | Lightning talk session at RSECon26 | 
