@@ -10,6 +10,7 @@ Public notes from SocRSE Board of Trustees meetings.
 - [2026-04-24, Online](2026-04-24_Online.md)
 - [2026-05-15, Online](2026-05-15_Online.md)
 - [2026-06-12, Online](2026-06-12_Online.md)
+- [2026-07-01, Online Extraordinary meeting](2026-07-01_Extraordinary_Online.md)
 
 ## 2025
 - [2025-01-21, Online](2025-01-21_Online.md)
