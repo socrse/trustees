@@ -290,3 +290,5 @@ If required for clarity, a reason for the decision will be added.
 | D0269 | 2026-06-12 | Stef Piatek | Consent agenda | Engage Graphcore as a potential sponsor for RSECon | 
 | D0270 | 2026-06-12 | Stef Piatek | Consent agenda | Updating wording to [Complaints and Grievances Policy](https://society-rse.org/about/policies/complaints-and-grievances-policy/) (Removing "Dealing with Complaints and Grievances Informally") and [CoC for Events policy page](https://society-rse.org/about/policies/code-of-conduct/) | 
 | D0271 | 2026-06-12 | Stef Piatek | Unanimously | Lightning talk session at RSECon26 | 
+| D0272 | 2026-07-01 | Stef Piatek | 8 in favour, 2 against | Continuing with the RSECon26 at University of Sheffield (rather than moving venues) |
+| D0273 | 2026-07-01 | Stef Piatek | Unanimous | Extend the 100% refund for two weeks from notification of our decision to the community |
