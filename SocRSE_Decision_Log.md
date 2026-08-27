@@ -292,3 +292,8 @@ If required for clarity, a reason for the decision will be added.
 | D0271 | 2026-06-12 | Stef Piatek | Unanimously | Lightning talk session at RSECon26 | 
 | D0272 | 2026-07-01 | Stef Piatek | 8 in favour, 2 against | Continuing with the RSECon26 at University of Sheffield (rather than moving venues) |
 | D0273 | 2026-07-01 | Stef Piatek | Unanimous | Extend the 100% refund for two weeks from notification of our decision to the community |
+| D0274 | 2026-08-05 | William Haese-Hill | Consent agenda | Approve two new members of the Policy and Funding Working Group |
+| D0275 | 2026-08-05 | William Haese-Hill | Consent agenda | Approve £1,320 + VAT expenditure by the EDIA&RD working group for an external review of the Society website by Allable |
+| D0276 | 2026-08-05 | William Haese-Hill | Consent agenda | Approve the SIG annual spending policy |
+| D0277 | 2026-08-05 | William Haese-Hill | Unanimously | Approve the Ethical Sponsorship Policy |
+| D0278 | 2026-08-05 | William Haese-Hill | Unanimously | Select the RSECon27 Programme Chairs following application and interview |
