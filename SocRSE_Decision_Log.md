@@ -297,3 +297,5 @@ If required for clarity, a reason for the decision will be added.
 | D0276 | 2026-08-05 | William Haese-Hill | Consent agenda | Approve the SIG annual spending policy |
 | D0277 | 2026-08-05 | William Haese-Hill | Unanimously | Approve the Ethical Sponsorship Policy |
 | D0278 | 2026-08-05 | William Haese-Hill | Unanimously | Select the RSECon27 Programme Chairs following application and interview |
+| D0279 | 2026-08-14 | Stef Piatek | Approved via slack vote (9 Approved within time window, no other votes recorded) | Propose increasing maximum number of trustees to 15 at the AGM |
+| D0280 | 2026-08-14 | Stef Piatek | Approved via slack vote (10 Approved within time window, no other votes recorded) | Increase annual reserve policy to have cash reserves of £65,000 from the current value of £45,000 |
