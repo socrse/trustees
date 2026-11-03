@@ -297,3 +297,5 @@ If required for clarity, a reason for the decision will be added.
 | D0276 | 2026-08-05 | William Haese-Hill | Consent agenda | Approve the SIG annual spending policy |
 | D0277 | 2026-08-05 | William Haese-Hill | Unanimously | Approve the Ethical Sponsorship Policy |
 | D0278 | 2026-08-05 | William Haese-Hill | Unanimously | Select the RSECon27 Programme Chairs following application and interview |
+| D0279 | 2026-09-30 | William Haese-Hill | Unanimously | Invite Stephen Thompson to take the 15th Trustee position |
+| D0280 | 2026-09-30 | William Haese-Hill | Unanimously | Approve allocation of trustee roles |
