@@ -299,3 +299,9 @@ If required for clarity, a reason for the decision will be added.
 | D0278 | 2026-08-05 | William Haese-Hill | Unanimously | Select the RSECon27 Programme Chairs following application and interview |
 | D0279 | 2026-09-30 | William Haese-Hill | Unanimously | Invite Stephen Thompson to take the 15th Trustee position |
 | D0280 | 2026-09-30 | William Haese-Hill | Unanimously | Approve allocation of trustee roles |
+| D0281 | 2026-11-05 | William Haese-Hill | Consent agenda | Approve Twin Karmakharm as a new non-trustee member of the Policy and Funding Working Group |
+| D0282 | 2026-11-05 | William Haese-Hill | Consent agenda | Give Michael Donnay access to Society Zoom and other accounts to assist with administration |
+| D0283 | 2026-11-05 | William Haese-Hill | Approved - 8 in favour, 1 against, 1 abstention | Remove the "Volunteers and the law" training requirement from the RSE Conference steering group requirements |
+| D0284 | 2026-11-05 | William Haese-Hill | Unanimously | Approve the updated RSECon27 Terms of Reference and onboarding requirements |
+| D0285 | 2026-11-05 | William Haese-Hill | Unanimously | Approve the RSECon27 Conference Vision Statement |
+| D0286 | 2026-11-05 | William Haese-Hill | Approved - 10 in favour, 1 abstention | Move the new Society website theme to the deployment phase |
